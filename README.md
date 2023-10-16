@@ -18,9 +18,6 @@ A comprehensive Flutter application that allows users to manage their todos seam
 - **Unit Tests**: Comprehensive unit tests have been written, ensuring the robustness and reliability of the application.
 - **Reactive Programming**: The app uses reactive programming patterns for data streams and the propagation of change, providing an intuitive way to deal with asynchronous operations.
 
-<img width="544" alt="Screenshot 2023-10-16 at 04 44 21" src="https://github.com/kudzaiTnexus/flutter_todo/assets/32536638/eba85a71-90a7-442a-91bb-339434ac9df0">
-
-
 ## Installation
 
 1. Clone the repository:
