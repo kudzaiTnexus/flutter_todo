@@ -1,5 +1,3 @@
-<img width="544" alt="Screenshot 2023-10-16 at 04 44 21" src="https://github.com/kudzaiTnexus/flutter_todo/assets/32536638/ac44a9f7-53ac-4154-a03c-aada3db369ba"># Todo Flutter App
-
 A comprehensive Flutter application that allows users to manage their todos seamlessly. Built with industry best practices and modern patterns.
 
 ## Features
@@ -17,6 +15,8 @@ A comprehensive Flutter application that allows users to manage their todos seam
 - **Mixins**: Leveraged the power of Dart mixins to reuse a class’s code in multiple class hierarchies.
 - **Unit Tests**: Comprehensive unit tests have been written, ensuring the robustness and reliability of the application.
 - **Reactive Programming**: The app uses reactive programming patterns for data streams and the propagation of change, providing an intuitive way to deal with asynchronous operations.
+
+<img width="544" alt="Screenshot 2023-10-16 at 04 44 21" src="https://github.com/kudzaiTnexus/flutter_todo/assets/32536638/ac44a9f7-53ac-4154-a03c-aada3db369ba"># Todo Flutter App
 
 ## Installation
 
